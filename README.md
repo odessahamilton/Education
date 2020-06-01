@@ -1,2 +1,2 @@
 # Education
-An organizational playground for academia, and personal development projects
+An organizational playground for academia and personal development projects
